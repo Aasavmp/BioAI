@@ -43,6 +43,6 @@ Other imaging done through Google Earth Engine API. https://developers.google.co
 
 ![Step 5](example_imgs/5_combo.png)
 
-## And running the route planning algorithm:
+## And running the route planning algorithm known as Ant Colony Optimisation (ACO):
 
 ![Step 6](example_imgs/optimal_path_plot.png)
